@@ -18,6 +18,10 @@ npm install
 npm run dev
 ```
 
+## Demo
+
+[https://avatar-model.vercel.app/](https://avatar-model.vercel.app/)
+
 ## Credits
 
 [Ankit Avatar Rigged with expression Shape Key](https://skfb.ly/oxrGW) by ankitanimationstudio is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
