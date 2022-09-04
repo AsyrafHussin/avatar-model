@@ -21,3 +21,7 @@ npm run dev
 ## Credits
 
 [Ankit Avatar Rigged with expression Shape Key](https://skfb.ly/oxrGW) by ankitanimationstudio is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+
+## License
+
+MIT. See [LICENSE](LICENSE) for more details.
