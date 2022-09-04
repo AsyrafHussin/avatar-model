@@ -2,6 +2,7 @@ import "./style.scss";
 
 document.querySelector("#app").innerHTML = `
     <model-viewer
+      id="avatar"
       loading="eager"
       src="/model.glb"
       ar
